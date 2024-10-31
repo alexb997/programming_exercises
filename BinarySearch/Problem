@@ -1,0 +1,2 @@
+ Implement a binary search function that returns the index of a target element
+  in a sorted array, or -1 if the element is not found.
