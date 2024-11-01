@@ -1,0 +1,3 @@
+Given two arrays,
+ write a function to compute their intersection,
+  returning unique elements in any order.

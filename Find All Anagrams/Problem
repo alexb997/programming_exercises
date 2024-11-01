@@ -1,0 +1,2 @@
+Given two strings s and p,
+ return a list of all the starting indices of p's anagrams in s.
