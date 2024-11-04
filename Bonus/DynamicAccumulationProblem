@@ -1,0 +1,15 @@
+Dynamic Accumulation with Conditional Modifications
+Problem: You have a list List<Integer> nums that represents a sequence of values.
+ Write a function that:
+Modifies each element in the list by summing it with the sum of all previous elements,
+ but only if it is even; if it is odd, subtract all previous elements.
+Generates all unique permutations of this modified list and calculates
+ a specific "weighted sum" for each permutation:
+For each index i, multiply the element at index i by i+1 and sum up all the results.
+Return the maximum weighted sum among all unique permutations.
+Additional Requirements:
+Avoid recalculating the sum if a permutation was already processed.
+Ensure that the function has a time complexity of O(n!)
+ for permutation generation but tries to minimize unnecessary calculations.
+Hint: Consider how to track which permutations you've processed
+ and think about how to handle permutations of lists with duplicate elements efficiently.
