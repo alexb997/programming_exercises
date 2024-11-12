@@ -1,0 +1,7 @@
+Write a Java program that solves a given Sudoku puzzle using backtracking.
+
+Requirements:
+
+Implement a solveSudoku method that uses backtracking to solve the puzzle.
+The input should be a 9x9 2D array with 0 representing empty cells.
+Print the completed Sudoku board.

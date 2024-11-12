@@ -1,0 +1,10 @@
+Given a grid of obstacles (1 represents an obstacle, 0 represents free space),
+write a program to find the shortest path from the top-left corner to the
+ bottom-right corner using BFS.
+
+Requirements:
+
+Implement BFS to traverse the grid.
+Consider only valid moves (up, down, left, right) without going
+ out of bounds or into obstacles.
+Output the shortest path length or a message if no path exists.
