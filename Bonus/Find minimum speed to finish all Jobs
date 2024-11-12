@@ -1,0 +1,7 @@
+Given an array A and an integer H
+ Each element A[i] represents remaining pending jobs to be done and H represents hours
+  left to complete all of the jobs.
+  The task is to find the minimum speed in jobs per Hour at which person needs to work
+   to complete all jobs in H hours.
+Note: If A[i] has less job to be done than speed of person then
+ he finish all of the work of A[i] and won’t go to next element during this hour.

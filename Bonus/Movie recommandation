@@ -1,0 +1,6 @@
+Store ratings for movies by different users in a 2D matrix,
+ where each row represents a user, and each column represents a movie.
+  Each entry is the rating (1-5) given by a user to a movie.
+Implement a collaborative filtering algorithm to
+ recommend movies to a user based on the similarity of their ratings with other users.
+Output a list of top 3 movie recommendations for any user.

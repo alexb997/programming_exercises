@@ -1,0 +1,5 @@
+Calculate word frequency in the file.
+Build a network (graph) where each unique word is a node, and
+ edges exist between words that appear next to each other in the text.
+Implement a method to find the shortest path (number of words)
+ between any two words in the text.

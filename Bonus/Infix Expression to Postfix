@@ -1,0 +1,8 @@
+Write a Java program that converts an infix mathematical expression to a postfix
+ (Reverse Polish Notation) expression.
+
+Requirements:
+
+Use a Stack to handle operators and parentheses.
+Implement a method to parse and convert the infix expression.
+Print the postfix expression.
